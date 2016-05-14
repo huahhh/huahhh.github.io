@@ -1,43 +1,36 @@
 # Author settings
-name: 梁窠金
-title: Android 开发工程师
-address: 中国, 上海
-email: liungkejin@foxmail.com
-github: liungkejin
+name: 胡航
+title: python爬虫工程师
+address: 中国, 四川 ，成都
+email: 1007897126@qq.com
+github: huahhh
 gavatar: /assets/img/avatar.JPG
 workHistory:
-- work3:
-  company: 上海大银幕网络科技有限公司
-  location: 中国，上海
-  title: Android 开发工程师
-  started: 2015
-  duration: (2015.10 - Present)
-  description: 开发和维护 "公证电影" App
 
 - work2:
-  company: 比亚迪精密制造上海分公司
-  location: 中国，上海
-  title: Android 开发工程师
-  started: 2014
-  duration: (2014.8 - 2015.8)
-  description: 在Android系统环境下修复所存在的 bug, 并开发新功能, 主要负责 RIL/Telephony
+  company: 四川神琥科技有限公司
+  location: 中国，成都
+  title: python大数据后端工程师
+  started: 2016
+  duration: (201.3 - Present)
+  description: 抓取数据，完善公司产品，web后端
 
 - work1:
-  company: 合肥卓远电子科技有限公司
-  location: 中国, 合肥
-  title: Linux 程序员
+  company: 个人外包项目
+  location: 中国, 成都
+  title: python 爬虫
   started: 2013
-  duration: (2013.6 - 2013.9)
-  description: 在嵌入式 Linux 环境下开发程序 (信号发生器，监控摄像头)
+  duration: (2015.10 - 2016.2)
+  description: 58&赶集爬虫，4399爬虫等。
 
 educationHistory:
 - education1:
-  organization: 安徽大学
-  degree: 学士
-  major: 化学工程与工艺
-  started: 2010
-  duration: (2010.9 - 2014.7)
-  description: 自学 C/C++, Java, Linux, 培训并参加过 ACM 比赛
+  organization: 武汉城市职业学院
+  degree: 
+  major: 移动通信
+  started: 2013
+  duration: (2013.9 - 2016.7)
+  description: 自学 python, Linux
 languages:
 - language1:
   name: 中文
@@ -46,21 +39,9 @@ languages:
   name: English
   proficiency: Limit
 programmingSkills:
-- Java:
-  name: Java/Android
-  percentage: 90%
-- Bash:
-  name: Bash Shell
-  percentage: 90%
-- CPP:
-  name: C/C++
-  percentage: 70%
-- PHP:
-  name: PHP
-  percentage: 30%
 - Python:
   name: Python
-  percentage: 30%
-- Kotlin:
-  name: Kotlin
+  percentage: 80%
+- Linux:
+  name: Linux
   percentage: 70%
