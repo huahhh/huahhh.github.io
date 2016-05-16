@@ -1,5 +1,4 @@
-# Kejin
+# huahhh
 
-> 自己选的路，跪着也要走下去
+> 山不到我这边来，我就到山那里去。
 
-![Blog](/assets/img/blog.png)
